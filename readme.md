@@ -2,7 +2,7 @@
 
 This repo hosts the After Effects Expression Reference RST docs, linked into a http://readthedocs.io system hosted at https://ae-expressions.docsforadobe.dev/
 
-The original documentation can be found over at `Adobe <https://helpx.adobe.com/after-effects/using/expression-language-reference.html>`_
+The original documentation can be found over at [Adobe](https://helpx.adobe.com/after-effects/using/expression-language-reference.html).
 
 ----
 
